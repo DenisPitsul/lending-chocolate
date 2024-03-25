@@ -3,8 +3,6 @@
     padding-top: 32px;
     padding-bottom: 32px;
 }
-.footer-title-contact-us-container {
-}
 .footer-title {
     width: 300px;
     color: var(--white-color);
@@ -21,9 +19,6 @@
     display: flex;
     justify-content: space-between;
 }
-.footer-contacu-us-left {
-    
-}
 .footer-contact-us-text {
     color: var(--white-color);
     font-size: 14px;
@@ -31,14 +26,10 @@
     line-height: 18px;
     margin-bottom: 14px;
 }
-.footer-contact-us-address {
-}
 .footer-contact-us-address-list {
     display: flex;
     flex-direction: column;
     gap: 4px;
-}
-.footer-contact-us-address-item {
 }
 .footer-contact-us-address-link {
     color: var(--white-color);
@@ -52,15 +43,9 @@
 .footer-contact-us-address-link:last-child {
     margin-bottom: 0;
 }
-.footer-contacu-us-right {
-}
 .footer-icon-list {
     display: flex;
     gap: 14px;
-}
-.footer-icon-item {
-}
-.footer-icon-link {
 }
 .footer-icon {
     stroke: var(--white-color);
@@ -77,16 +62,10 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
     margin: 32px 0;
 }
-.footer-nav-container {
-}
-.footer-nav {
-}
 .footer-nav-list {
     display: flex;
     flex-direction: column;
     gap: 18px;
-}
-.footer-nav-list-item {
 }
 .footer-nav-link {
     color: var(--white-color);

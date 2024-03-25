@@ -42,8 +42,6 @@
     margin-left: 50px;
     margin-top: 136px;
 }
-.mobile-menu-item {
-}
 .mobile-menu-link {
     color: var(--white-color);
     font-size: 14px;
@@ -58,10 +56,6 @@
     left: 20px;
     display: flex;
     gap: 10px;
-}
-.mobile-social-item {
-}
-.mobile-social-link {
 }
 .mobile-social-icon {
     stroke: var(--white-color);

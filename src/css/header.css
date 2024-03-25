@@ -31,8 +31,6 @@
     margin-left: 188px;
     margin-right: 137px;
 }
-.header-menu-item {
-}
 .header-menu-link {
     color: var(--black-color);
     font-family: Montserrat;
@@ -49,15 +47,9 @@
 .header-menu-link:focus {
     color: var(--accent-color);
 }
-.header-address {
-}
 .header-contact-list {
     display: none;
     gap: 18px;
-}
-.header-contact-item {
-}
-.header-contact-link {
 }
 .social-contact-icon {
     stroke: var(--black-color);

@@ -52,8 +52,6 @@
 .unique-item:nth-child(3) .unique-image-container {
     background-color: var(--violet-color);
 }
-.unique-picture {
-}
 .unique-image {
     margin: 0 auto;
 }
@@ -68,8 +66,6 @@
 }
 .unique-item:nth-child(2n) .unique-item-title {
     color: var(--black-color);
-}
-.unique-white {
 }
 .unique-overlay {
     position: absolute;
@@ -98,8 +94,6 @@
 .unique-overlay-list {
     display: flex;
     gap: 6px;
-}
-.unique-overlay-item {
 }
 .unique-overlay-button-name {
     background-color: var(--accent-color);

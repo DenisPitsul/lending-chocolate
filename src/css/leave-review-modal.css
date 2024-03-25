@@ -62,8 +62,6 @@
 .review-modal-title-accent {
     color: var(--accent-color);
 }
-.review-modal-form {
-}
 .review-modal-form-data {
     position: relative;
 }
@@ -108,8 +106,6 @@
     font-weight: 500;
     line-height: normal;
     letter-spacing: -0.28px;
-}
-.review-modal-flag-icon {
 }
 .review-modal-tel-input {
     width: 100%;

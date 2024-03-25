@@ -78,8 +78,6 @@
     background-color: var(--white-color);
     padding: 8px 16px;
 }
-.buy-modal-order-image {
-}
 .buy-modal-order-weight {
     border-radius: 100px;
     border: 1px solid rgba(17, 17, 17, 0.10);
@@ -160,8 +158,6 @@
     width: 1.5px;
     height: 100%;
     background-color: rgba(17, 17, 17, 0.05);
-}
-.buy-modal-flag-icon {
 }
 .buy-modal-code {
     color: #000;

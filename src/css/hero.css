@@ -24,8 +24,6 @@
         url(../images/hero/hero-mobile-2x.jpg);
   }
 }
-.hero-content {
-}
 .hero-description {
     color: var(--white-color);
     font-size: 20px;
