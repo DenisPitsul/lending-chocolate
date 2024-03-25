@@ -12,6 +12,5 @@
   
     function toggleModal() {
       refs.modal.classList.toggle("buy-backdrop-is-hidden");
-      console.log('111')
     }
   })();
